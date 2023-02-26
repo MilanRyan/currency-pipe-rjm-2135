@@ -24,5 +24,5 @@ export class AppComponent {
   decimalNum2: number = 5.43;
   decimalNum3: number = 6.21;
   decimalNum4: number = 7.34;
-  decimalNum5: number = 8.43;
+  decimalNum5: number = .43;
 }
